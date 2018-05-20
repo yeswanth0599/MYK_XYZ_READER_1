@@ -1,0 +1,10 @@
+<resources>
+    <!-- list -->
+    <integer name="list_column_count">2</integer>
+    <!-- detail -->
+    <!-- force match_parent -->
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <integer name="textview_heading_line_count">4</integer>
+    <integer name="textview_sub_heading_line_count">1</integer>
+</resources>

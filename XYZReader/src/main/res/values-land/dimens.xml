@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="article_list_landscap_layout">500dp</dimen>
+    <dimen name="app_bar_height">120dp</dimen>
+    <dimen name="fragment_detail_nested_scrollview">500dp</dimen>
+    <dimen name="fragment_detail_layout_margin">-150dp</dimen>
+    <dimen name="fragment_tool_bar_container_height">240dp</dimen>
+    <dimen name="fragment_detail_app_bar_elevation">4dp</dimen>
+    <dimen name="expanded_title_margin">60dp</dimen>
+    <dimen name="expanded_title_margin_bottom">65dp</dimen>
+</resources>

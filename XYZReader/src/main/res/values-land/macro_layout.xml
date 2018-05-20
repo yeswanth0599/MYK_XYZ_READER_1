@@ -1,0 +1,6 @@
+<resources>
+    <!-- list -->
+    <integer name="textview_heading">4</integer>
+    <integer name="textview_sub_heading">1</integer>
+    <integer name="list_column_count">3</integer>
+</resources>
